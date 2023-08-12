@@ -1,4 +1,4 @@
-### Oii eu sou o Carlos Alfredo Isensee
+### oi eu sou o Carlos Alfredo Isensee
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosisenseee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
