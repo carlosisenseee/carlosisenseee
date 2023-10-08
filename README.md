@@ -11,6 +11,7 @@
   <img align="center" alt="carlos-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="carlos-c#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <!--<img align="center" alt="carlos-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> -->
+  <img align="center" alt="carlos-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/java-original.svg"/>
 </div>
 
 ##
